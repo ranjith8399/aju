@@ -1,5 +1,5 @@
 #ra.ku
-year= int(nput())
+year= int(input())
 if year%4==0 :
   print('yes')
 else :
